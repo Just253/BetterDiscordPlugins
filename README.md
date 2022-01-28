@@ -1,2 +1,4 @@
-# BetterDiscordPlugins
-My plugins for BetterDiscord (still trying to learn) 
+# ReadMe
+I will be creating or modifying plugins from time to time.
+
+`Sorry for my english`
