@@ -2,8 +2,8 @@
 Simple script for view tiktok with inframe in Discord
 **Warning:** This plugin use API from [LinkUnshortener](https://linkunshorten.com/) for shorts link like `https://vm.tiktok.com/XXXXXXX/`
 ### How use
-	Click in links of embed to load video in it
-	![](https://github.com/Just253/BetterDiscordPlugins/TiktokViewer/img/steps.png)
+Click in links of embed to load video in it
+![Steps](https://raw.githubusercontent.com/Just253/BetterDiscordPlugins/main/Plugins/TiktokViewer/img/steps.PNG)
 
 	1. Link
 	    - If you click on the link, it will redirect you in your browser
