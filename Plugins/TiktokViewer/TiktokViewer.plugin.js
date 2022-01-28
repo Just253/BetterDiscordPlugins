@@ -5,7 +5,8 @@
  * @version 0.0.1
  * @authorId 328640767415418893
  * @authorLink https://github.com/Just253
- * @source https://github.com/Just253/BetterDiscordPlugins/Plugins/TiktokViewer
+ * @source https://github.com/Just253/BetterDiscordPlugins/tree/main/Plugins/TiktokViewer
+ * @updateUrl https://raw.githubusercontent.com/Just253/BetterDiscordPlugins/main/Plugins/TiktokViewer/TiktokViewer.plugin.js
  */
 
 const request = require("request");
